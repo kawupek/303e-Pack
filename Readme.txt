@@ -1,2 +1,3 @@
-Autorzy: Mały Kawup, Jifrinoskyy
+Autorzy: Jifrinoskyy, RR Kolej
+Konsultacja i pomoc: Mały Kawup
 Instrukcja instalacji:
